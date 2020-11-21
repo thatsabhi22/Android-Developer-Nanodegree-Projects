@@ -33,7 +33,11 @@ Udacity Android Developer Nanodegree is built in collaboration with Google that 
 
 
 #### Review from the Reviewer (Udacity)
-![Review_Popular_Movies_Stage_1_App]<image align="left" src="https://github.com/thatsabhi22/udacity-popular-movies-stage-1-app/blob/master/PopularMoviesS1.png" width="25%"/>
+<p align="left">
+<image src="https://github.com/thatsabhi22/udacity-popular-movies-stage-1-app/blob/master/PopularMoviesS1.png" width="35%"/>
+</p>
+
+
 
 ### 10. [Sandwich Club App](https://github.com/thatsabhi22/udacity-sandwich-club-app)
 
@@ -43,7 +47,6 @@ Udacity Android Developer Nanodegree is built in collaboration with Google that 
 ![GitHub stars](https://img.shields.io/github/stars/thatsabhi22/udacity-sandwich-club-app?style=social)  ![GitHub forks](https://img.shields.io/github/forks/thatsabhi22/udacity-sandwich-club-app?style=social)  ![Minimum API level](https://img.shields.io/badge/API-21+-yellow)
 
 **Sandwich Club app** to show the details of each sandwich once it is selected.
-
 
 Building a layout and populating its fields from data received as JSON is a common task for Android Developers. Although JSON parsing is usually done using libraries, writing the JSON parsing for this project will help you to better understand how it is processed.
 
