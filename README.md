@@ -23,3 +23,7 @@ Building a layout and populating its fields from data received as JSON is a comm
 * Practice JSON parsing to a model object
 * Design an activity layout
 * Populate all fields in the layout accordingly
+
+#### Review from the Reviewer (Udacity)
+![Review_Sandwich_Club_App](https://github.com/thatsabhi22/udacity-sandwich-club-app/blob/master/SandwichClub.png)
+
