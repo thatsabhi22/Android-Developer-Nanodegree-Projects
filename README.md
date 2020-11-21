@@ -1,12 +1,11 @@
 # Udacity Android Developer Nanodegree Projects
 
-[Curriculum](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
 Udacity Android Developer Nanodegree is built in collaboration with Google that prepares to be become a professional Android developer. This allows myself to create a diverse portfolio of projects to showcase them to the stakeholders. This program enables me to use Android development platform best-practices, Android Studio, Android Jetpack to build  applications for the world’s most-used mobile platform.
 
 
 ## Project Submissions
 
-### 6. [Joke Telling App](https://github.com/thatsabhi22/udacity-build-it-bigger)
+### 5. [Joke Telling App](https://github.com/thatsabhi22/udacity-build-it-bigger)
 
 <image align="right" src="https://github.com/thatsabhi22/udacity-build-it-bigger/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="25%"/>
 
@@ -29,7 +28,6 @@ Udacity Android Developer Nanodegree is built in collaboration with Google that 
 - Connected tests to verify that the async task is indeed loading jokes.
 - Paid/free flavors. The paid flavor has no ads, and no unnecessary dependencies.
 
-
 #### Sample Screenshots
 <img src="https://github.com/thatsabhi22/udacity-build-it-bigger/blob/master/Screenshots/s1.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-build-it-bigger/blob/master/Screenshots/s2.png" width="40%"/> <img src="https://github.com/thatsabhi22/udacity-build-it-bigger/blob/master/Screenshots/s3.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-build-it-bigger/blob/master/Screenshots/s4.png" width="60%"/>
 
@@ -38,7 +36,7 @@ Udacity Android Developer Nanodegree is built in collaboration with Google that 
 <image src="https://github.com/thatsabhi22/udacity-build-it-bigger/blob/master/BuildItBiggerReview.png" width="35%"/>
 </p>
 
-### 7. [Baking App](https://github.com/thatsabhi22/udacity-baking-app)
+### 6. [Baking App](https://github.com/thatsabhi22/udacity-baking-app)
 
 <image align="right" src="https://github.com/thatsabhi22/udacity-baking-app/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="25%"/>
 
@@ -76,7 +74,7 @@ The fragments functionalities are being re-used in both screens.
 <image src="https://github.com/thatsabhi22/udacity-baking-app/blob/master/BakingAppReview.png" width="35%"/>
 </p>
 
-### 8. [Popular Movies, Stage 1](https://github.com/thatsabhi22/udacity-popular-movies-stage-1-app)
+### 7. [Popular Movies, Stage 1](https://github.com/thatsabhi22/udacity-popular-movies-stage-1-app)
 
 <image align="right" src="https://github.com/thatsabhi22/udacity-popular-movies-stage-1-app/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="25%"/>
 
@@ -110,7 +108,7 @@ The fragments functionalities are being re-used in both screens.
 </p>
 
 
-### 9. [Popular Movies, Stage 2](https://github.com/thatsabhi22/udacity-popular-movies-stage-2-app)
+### 8. [Popular Movies, Stage 2](https://github.com/thatsabhi22/udacity-popular-movies-stage-2-app)
 
 <image align="right" src="https://github.com/thatsabhi22/udacity-popular-movies-stage-2-app/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="25%"/>
 
@@ -149,6 +147,29 @@ The fragments functionalities are being re-used in both screens.
 <image src="https://github.com/thatsabhi22/udacity-popular-movies-stage-2-app/blob/master/PopularMoviesS2.png" width="35%"/>
 </p>
 
+### 9. [XYZ Reader App](https://github.com/thatsabhi22/udacity-xyz-reader)
+
+<image align="right" src="https://github.com/thatsabhi22/udacity-xyz-reader/blob/master/XYZReader/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="25%"/>
+
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/thatsabhi22/udacity-xyz-reader) ![GitHub repo size](https://img.shields.io/github/repo-size/thatsabhi22/udacity-xyz-reader)![GitHub stars](https://img.shields.io/github/stars/thatsabhi22/udacity-xyz-reader?style=social)  ![GitHub forks](https://img.shields.io/github/forks/thatsabhi22/udacity-xyz-reader?style=social)  ![Minimum API level](https://img.shields.io/badge/API-21+-yellow)
+
+**XYZ Reader App** is a redesign of app to follow the Material Design guidelines and translate a set of static design mocks to a living and breathing app.
+
+#### Topics learnt/explored
+* Understand the fundamentals of Android design.
+* Apply Material Design guidelines to a mobile application.
+* Separate an interface into surfaces.
+* Effectively use transitions and motion.
+* Using Adaptive design for different screen sizes
+* Picasso Library for Images
+
+#### Sample Screenshots
+<img src="https://github.com/thatsabhi22/udacity-xyz-reader/blob/master/Screenshots/s1.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-xyz-reader/blob/master/Screenshots/s2.png" width="40%"/> <img src="https://github.com/thatsabhi22/udacity-xyz-reader/blob/master/Screenshots/s3.png" width="40%"/>
+
+#### Review from the Reviewer (Udacity)
+<p align="left">
+<image src="https://github.com/thatsabhi22/udacity-xyz-reader/blob/master/XYZReaderReview.png" width="35%"/>
+</p>
 
 ### 10. [Sandwich Club App](https://github.com/thatsabhi22/udacity-sandwich-club-app)
 
