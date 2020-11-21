@@ -5,35 +5,54 @@ Udacity Android Developer Nanodegree is built in collaboration with Google that 
 
 ## Project Submissions
 
-### 5. [Joke Telling App](https://github.com/thatsabhi22/udacity-build-it-bigger)
+### 4. [SpaceBinge - Capstone Project](https://github.com/thatsabhi22/udacity-capstone-stage-2)
 
-<image align="right" src="https://github.com/thatsabhi22/udacity-build-it-bigger/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="25%"/>
+<image align="right" src="https://github.com/thatsabhi22/udacity-capstone-stage-2/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="25%"/>
 
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/thatsabhi22/udacity-build-it-bigger) ![GitHub repo size](https://img.shields.io/github/repo-size/thatsabhi22/udacity-build-it-bigger)![GitHub stars](https://img.shields.io/github/stars/thatsabhi22/udacity-build-it-bigger?style=social)  ![GitHub forks](https://img.shields.io/github/forks/thatsabhi22/udacity-build-it-bigger?style=social)  ![Minimum API level](https://img.shields.io/badge/API-21+-yellow)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/thatsabhi22/udacity-capstone-stage-2) ![GitHub repo size](https://img.shields.io/github/repo-size/thatsabhi22/udacity-capstone-stage-2)![GitHub stars](https://img.shields.io/github/stars/thatsabhi22/udacity-capstone-stage-2?style=social)  ![GitHub forks](https://img.shields.io/github/forks/thatsabhi22/udacity-capstone-stage-2?style=social)  ![Minimum API level](https://img.shields.io/badge/API-21+-yellow)
 
-**Joke Telling App** App retrieves jokes from Google Cloud Endpoints module and displays them via an Activity from the Android Library.
+**SpaceBinge** is a video streaming app, showcasing latest and upcoming missions and activities as NASA. These videos on space are exclusively created by NASA and available for general public viewership.
 
 #### Topics learnt/explored
-* Multi-Module Application
-* Google Ads
-* Java Libraries
-* Android Libraries
-* Google app engine
-* Android Flavors (Paid/Free)
+* Android Architecture Components
+  * ViewModel
+  * LiveData
+  * Repository
+  * Room Database
+* Video Streaming / Player
+  * Exoplayer
+* Retrofit ( A type-safe HTTP client )
+* JSON Parsing
+* Dynamic Image Loading
+  * Picasso ( A powerful image downloading and caching library )
+  * Glide
+* Material Design
+  * RecyclerView with ViewHolder
+  * CardView
+  * Card Stack View ( News Section )
+* Google Firebase
+  * Firebase Auth
+  * Firebase analytics
+* Video Downloading library
+  * PRdownloader
+* Stetho ( A debugging library for Android applications )
+* Android Homescreen Widget
 
-#### This app contains 4 main components:
-- A Java library for supplying jokes
-- An Android library with an activity that displays jokes passed to it as intent extras.
-- A Google Cloud Endpoints module that supplies jokes from the Java library. Project loads jokes from GCE module via an async task.
-- Connected tests to verify that the async task is indeed loading jokes.
-- Paid/free flavors. The paid flavor has no ads, and no unnecessary dependencies.
+#### With this app -
+- Stream unlimited space videos and documentaries created by NASA
+- Discover hours of infotainment content, with new videos being added regularly
+- Create your personal ‘Watchlist’ list and easily access your collection
+- Extensive search inside vast collection of videos of NASA
+- Watch full documentaries and short videos for free
+- Offline viewing of the videos, download these space videos effortlessly on your device
+- User Profile gets created for personalisation on favorite space videos
 
 #### Sample Screenshots
-<img src="https://github.com/thatsabhi22/udacity-build-it-bigger/blob/master/Screenshots/s1.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-build-it-bigger/blob/master/Screenshots/s2.png" width="40%"/> <img src="https://github.com/thatsabhi22/udacity-build-it-bigger/blob/master/Screenshots/s3.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-build-it-bigger/blob/master/Screenshots/s4.png" width="60%"/>
+<img src="https://github.com/thatsabhi22/udacity-capstone-stage-2/blob/master/Screenshots/s1.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-capstone-stage-2/blob/master/Screenshots/s2.png" width="40%"/> <img src="https://github.com/thatsabhi22/udacity-capstone-stage-2/blob/master/Screenshots/s3.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-capstone-stage-2/blob/master/Screenshots/s4.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-capstone-stage-2/blob/master/Screenshots/s5.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-capstone-stage-2/blob/master/Screenshots/s6.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-capstone-stage-2/blob/master/Screenshots/s7.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-capstone-stage-2/blob/master/Screenshots/s8.png" width="60%"/><img src="https://github.com/thatsabhi22/udacity-capstone-stage-2/blob/master/Screenshots/s9.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-capstone-stage-2/blob/master/Screenshots/s10.png" width="40%"/>
 
 #### Review from the Reviewer (Udacity)
 <p align="left">
-<image src="https://github.com/thatsabhi22/udacity-build-it-bigger/blob/master/BuildItBiggerReview.png" width="35%"/>
+<image src="https://github.com/thatsabhi22/udacity-capstone-stage-2/blob/master/CapstoneReview.png" width="35%"/>
 </p>
 
 ### 6. [Baking App](https://github.com/thatsabhi22/udacity-baking-app)
@@ -72,6 +91,37 @@ The fragments functionalities are being re-used in both screens.
 #### Review from the Reviewer (Udacity)
 <p align="left">
 <image src="https://github.com/thatsabhi22/udacity-baking-app/blob/master/BakingAppReview.png" width="35%"/>
+</p>
+
+### 5. [Joke Telling App](https://github.com/thatsabhi22/udacity-build-it-bigger)
+
+<image align="right" src="https://github.com/thatsabhi22/udacity-build-it-bigger/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="25%"/>
+
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/thatsabhi22/udacity-build-it-bigger) ![GitHub repo size](https://img.shields.io/github/repo-size/thatsabhi22/udacity-build-it-bigger)![GitHub stars](https://img.shields.io/github/stars/thatsabhi22/udacity-build-it-bigger?style=social)  ![GitHub forks](https://img.shields.io/github/forks/thatsabhi22/udacity-build-it-bigger?style=social)  ![Minimum API level](https://img.shields.io/badge/API-21+-yellow)
+
+**Joke Telling App** App retrieves jokes from Google Cloud Endpoints module and displays them via an Activity from the Android Library.
+
+#### Topics learnt/explored
+* Multi-Module Application
+* Google Ads
+* Java Libraries
+* Android Libraries
+* Google app engine
+* Android Flavors (Paid/Free)
+
+#### This app contains 4 main components:
+- A Java library for supplying jokes
+- An Android library with an activity that displays jokes passed to it as intent extras.
+- A Google Cloud Endpoints module that supplies jokes from the Java library. Project loads jokes from GCE module via an async task.
+- Connected tests to verify that the async task is indeed loading jokes.
+- Paid/free flavors. The paid flavor has no ads, and no unnecessary dependencies.
+
+#### Sample Screenshots
+<img src="https://github.com/thatsabhi22/udacity-build-it-bigger/blob/master/Screenshots/s1.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-build-it-bigger/blob/master/Screenshots/s2.png" width="40%"/> <img src="https://github.com/thatsabhi22/udacity-build-it-bigger/blob/master/Screenshots/s3.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-build-it-bigger/blob/master/Screenshots/s4.png" width="60%"/>
+
+#### Review from the Reviewer (Udacity)
+<p align="left">
+<image src="https://github.com/thatsabhi22/udacity-build-it-bigger/blob/master/BuildItBiggerReview.png" width="35%"/>
 </p>
 
 ### 7. [Popular Movies, Stage 1](https://github.com/thatsabhi22/udacity-popular-movies-stage-1-app)
