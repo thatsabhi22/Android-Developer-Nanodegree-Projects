@@ -2,11 +2,13 @@
 
 ## Certificate of Completion
 
+---
 <a href="https://confirm.udacity.com/YZKRHM6M">
 <img alt="Udacity Android Developer Nanodegree Certificate" src="https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/b457009a-9719-40d7-b087-54f8111f52dc.svg" width="50%"/>
 </a>
 
 ---
+
 Udacity Android Developer Nanodegree is built in collaboration with Google that prepares to be become a professional Android developer. This allows myself to create a diverse portfolio of projects to showcase them to the stakeholders. This program enables me to use Android development platform best-practices, Android Studio, Android Jetpack to build  applications for the world’s most-used mobile platform.
 
 
