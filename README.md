@@ -6,6 +6,44 @@ Udacity Android Developer Nanodegree is built in collaboration with Google that 
 
 ## Project Submissions
 
+### 7. [Baking App](https://github.com/thatsabhi22/udacity-baking-app)
+
+<image align="right" src="https://github.com/thatsabhi22/udacity-baking-app/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="25%"/>
+
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/thatsabhi22/udacity-baking-app) ![GitHub repo size](https://img.shields.io/github/repo-size/thatsabhi22/udacity-baking-app)![GitHub stars](https://img.shields.io/github/stars/thatsabhi22/udacity-baking-app?style=social)  ![GitHub forks](https://img.shields.io/github/forks/thatsabhi22/udacity-baking-app?style=social)  ![Minimum API level](https://img.shields.io/badge/API-21+-yellow)
+
+**Baking App** app will allow a user to select a recipe and see video-guided steps for how to complete it. It requests the data from Internet in form of JSON. The JSON file contains the recipes' instructions, ingredients, videos and images you will need to complete this project. Don’t assume that all steps of the recipe have a video. Some may have a video, an image, or no visual media at all. This app makes use of fragments very efficiently on the tablet as well as phone screen.
+The fragments functionalities are being re-used in both screens.
+
+#### Topics learnt/explored
+- Fragments
+- Exoplayer
+- Widgets
+- ButterKnife
+- Retrofit ( A type-safe HTTP client )
+- Scrolling Activity
+- Material Design
+- JSON Parsing
+- RecyclerView with ViewHolder
+- Cardview
+- Espresso
+
+#### This app will:
+* Use **MediaPlayer/Exoplayer** to display videos.
+* Handle error cases in Android.
+* Add a widget to your app experience.
+* Leverage a third-party library in your app.
+* Use Fragments to create a responsive design that works on phones and tablets.
+ 
+
+#### Sample Screenshots
+<img src="https://github.com/thatsabhi22/udacity-baking-app/blob/master/Screenshots/t1.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-baking-app/blob/master/Screenshots/t2.png" width="40%"/> <img src="https://github.com/thatsabhi22/udacity-baking-app/blob/master/Screenshots/t3.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-baking-app/blob/master/Screenshots/t4.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-baking-app/blob/master/Screenshots/s1.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-baking-app/blob/master/Screenshots/s2.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-baking-app/blob/master/Screenshots/s3.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-baking-app/blob/master/Screenshots/s4.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-baking-app/blob/master/Screenshots/s5.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-baking-app/blob/master/Screenshots/s6.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-baking-app/blob/master/Screenshots/s7.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-baking-app/blob/master/Screenshots/s8.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-baking-app/blob/master/Screenshots/s9.png" width="40%"/>
+
+#### Review from the Reviewer (Udacity)
+<p align="left">
+<image src="https://github.com/thatsabhi22/udacity-baking-app/blob/master/BakingAppReview.png" width="35%"/>
+</p>
+
 ### 8. [Popular Movies, Stage 1](https://github.com/thatsabhi22/udacity-popular-movies-stage-1-app)
 
 <image align="right" src="https://github.com/thatsabhi22/udacity-popular-movies-stage-1-app/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="25%"/>
