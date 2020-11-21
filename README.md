@@ -33,8 +33,7 @@ Udacity Android Developer Nanodegree is built in collaboration with Google that 
 
 
 #### Review from the Reviewer (Udacity)
-![Review_Sandwich_Club_App](https://github.com/thatsabhi22/udacity-sandwich-club-app/blob/master/SandwichClub.png)
-
+![Review_Popular_Movies_Stage_1_App]<image align="left" src="https://github.com/thatsabhi22/udacity-popular-movies-stage-1-app/blob/master/PopularMoviesS1.png" width="25%"/>
 
 ### 10. [Sandwich Club App](https://github.com/thatsabhi22/udacity-sandwich-club-app)
 
