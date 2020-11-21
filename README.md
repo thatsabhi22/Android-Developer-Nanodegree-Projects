@@ -6,6 +6,38 @@ Udacity Android Developer Nanodegree is built in collaboration with Google that 
 
 ## Project Submissions
 
+### 6. [Joke Telling App](https://github.com/thatsabhi22/udacity-build-it-bigger)
+
+<image align="right" src="https://github.com/thatsabhi22/udacity-build-it-bigger/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="25%"/>
+
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/thatsabhi22/udacity-build-it-bigger) ![GitHub repo size](https://img.shields.io/github/repo-size/thatsabhi22/udacity-build-it-bigger)![GitHub stars](https://img.shields.io/github/stars/thatsabhi22/udacity-build-it-bigger?style=social)  ![GitHub forks](https://img.shields.io/github/forks/thatsabhi22/udacity-build-it-bigger?style=social)  ![Minimum API level](https://img.shields.io/badge/API-21+-yellow)
+
+**Joke Telling App** App retrieves jokes from Google Cloud Endpoints module and displays them via an Activity from the Android Library.
+
+#### Topics learnt/explored
+* Multi-Module Application
+* Google Ads
+* Java Libraries
+* Android Libraries
+* Google app engine
+* Android Flavors (Paid/Free)
+
+#### This app contains 4 main components:
+- A Java library for supplying jokes
+- An Android library with an activity that displays jokes passed to it as intent extras.
+- A Google Cloud Endpoints module that supplies jokes from the Java library. Project loads jokes from GCE module via an async task.
+- Connected tests to verify that the async task is indeed loading jokes.
+- Paid/free flavors. The paid flavor has no ads, and no unnecessary dependencies.
+
+
+#### Sample Screenshots
+<img src="https://github.com/thatsabhi22/udacity-build-it-bigger/blob/master/Screenshots/s1.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-build-it-bigger/blob/master/Screenshots/s2.png" width="40%"/> <img src="https://github.com/thatsabhi22/udacity-build-it-bigger/blob/master/Screenshots/s3.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-build-it-bigger/blob/master/Screenshots/s4.png" width="60%"/>
+
+#### Review from the Reviewer (Udacity)
+<p align="left">
+<image src="https://github.com/thatsabhi22/udacity-build-it-bigger/blob/master/BuildItBiggerReview.png" width="35%"/>
+</p>
+
 ### 7. [Baking App](https://github.com/thatsabhi22/udacity-baking-app)
 
 <image align="right" src="https://github.com/thatsabhi22/udacity-baking-app/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="25%"/>
