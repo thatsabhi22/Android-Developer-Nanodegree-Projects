@@ -1,5 +1,12 @@
 # Udacity Android Developer Nanodegree Projects
 
+## Certificate of Completion
+
+<a href="https://confirm.udacity.com/YZKRHM6M">
+<img alt="Udacity Android Developer Nanodegree Certificate" src="https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/b457009a-9719-40d7-b087-54f8111f52dc.svg" width="50%"/>
+</a>
+
+---
 Udacity Android Developer Nanodegree is built in collaboration with Google that prepares to be become a professional Android developer. This allows myself to create a diverse portfolio of projects to showcase them to the stakeholders. This program enables me to use Android development platform best-practices, Android Studio, Android Jetpack to build  applications for the world’s most-used mobile platform.
 
 
@@ -237,11 +244,24 @@ Building a layout and populating its fields from data received as JSON is a comm
 * Design an activity layout
 * Populate all fields in the layout accordingly
 
-#### Review from the Reviewer (Udacity)
-<p align="left">
-<image src="https://github.com/thatsabhi22/udacity-sandwich-club-app/blob/master/SandwichClub.png" width="35%"/>
-</p>
 
+---
 
+## License
 
+```
+Copyright 2020 Abhijeet Singh Chouhan
+
+Licensed under the Apache License, Version 2.0 (the "License"); 
+you may not use this file except in compliance with the License. 
+You may obtain a copy of the License at
+
+   http://www.apache.org/licenses/LICENSE-2.0
+   
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+```
 
