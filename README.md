@@ -24,13 +24,10 @@ Udacity Android Developer Nanodegree is built in collaboration with Google that 
 * Present the user with a grid arrangement of movie posters upon launch.
 * Allow your user to change sort order via a setting:
     * The sort order can be by most popular or by highest-rated
-* Allow the user to tap on a movie poster and transition to a details screen with additional information such as:
-    * original title
-    * movie poster image thumbnail
-    * A plot synopsis (called overview in the api)
-    * user rating (called vote_average in the api)
-    * release date
+* Allow the user to tap on a movie poster and transition to a details screen with additional information.
 
+#### Sample Screenshots
+<img src="https://github.com/thatsabhi22/udacity-popular-movies-stage-1-app/blob/master/Screenshots/1.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-popular-movies-stage-1-app/blob/master/Screenshots/2.png" width="40%"/> <img src="https://github.com/thatsabhi22/udacity-popular-movies-stage-1-app/blob/master/Screenshots/3.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-popular-movies-stage-1-app/blob/master/Screenshots/4.png" width="40%"/>
 
 #### Review from the Reviewer (Udacity)
 <p align="left">
@@ -56,7 +53,9 @@ Building a layout and populating its fields from data received as JSON is a comm
 * Populate all fields in the layout accordingly
 
 #### Review from the Reviewer (Udacity)
-![Review_Sandwich_Club_App](https://github.com/thatsabhi22/udacity-sandwich-club-app/blob/master/SandwichClub.png)
+<p align="left">
+<image src="https://github.com/thatsabhi22/udacity-sandwich-club-app/blob/master/SandwichClub.png" width="35%"/>
+</p>
 
 
 
