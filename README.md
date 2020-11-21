@@ -1,6 +1,6 @@
 # Udacity Android Developer Nanodegree Projects
 
-Udacity Android Developer Nanodegree is built in collaboration with Google that prepares to be become a professional Android developer. This allows myself to create a diverse portfolio of projects to showcase them to the stakeholders. This program enables me to use Android development platform best-practices, Android Studio, Android Jetpack to build  applications for the world’s most-used mobile platform.
+**Udacity Android Developer Nanodegree** is built in collaboration with Google that prepares to become a **Professional Android developer**. This allowed me to create a diverse portfolio of projects to showcase them to the stakeholders. This program enables me to use the Android development platform best-practices, Android Studio, Android Jetpack and the latest trending technologies in this space to build applications for the world’s most-used mobile platform.
 
 ## Certificate of Completion
 
@@ -13,7 +13,7 @@ Udacity Android Developer Nanodegree is built in collaboration with Google that 
 
 ## Project Submissions
 
-### 4. [SpaceBinge - Capstone Project](https://github.com/thatsabhi22/udacity-capstone-stage-2)
+### 1. [SpaceBinge - Capstone Project](https://github.com/thatsabhi22/udacity-capstone-stage-2)
 
 <image align="right" src="https://github.com/thatsabhi22/udacity-capstone-stage-2/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="25%"/>
 
@@ -63,7 +63,7 @@ Udacity Android Developer Nanodegree is built in collaboration with Google that 
 <image src="https://github.com/thatsabhi22/udacity-capstone-stage-2/blob/master/CapstoneReview.png" width="35%"/>
 </p>
 
-### 6. [Baking App](https://github.com/thatsabhi22/udacity-baking-app)
+### 2. [Baking App](https://github.com/thatsabhi22/udacity-baking-app)
 
 <image align="right" src="https://github.com/thatsabhi22/udacity-baking-app/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="25%"/>
 
@@ -101,7 +101,7 @@ The fragments functionalities are being re-used in both screens.
 <image src="https://github.com/thatsabhi22/udacity-baking-app/blob/master/BakingAppReview.png" width="35%"/>
 </p>
 
-### 5. [Joke Telling App](https://github.com/thatsabhi22/udacity-build-it-bigger)
+### 3. [Joke Telling App](https://github.com/thatsabhi22/udacity-build-it-bigger)
 
 <image align="right" src="https://github.com/thatsabhi22/udacity-build-it-bigger/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="25%"/>
 
@@ -132,7 +132,7 @@ The fragments functionalities are being re-used in both screens.
 <image src="https://github.com/thatsabhi22/udacity-build-it-bigger/blob/master/BuildItBiggerReview.png" width="35%"/>
 </p>
 
-### 7. [Popular Movies, Stage 1](https://github.com/thatsabhi22/udacity-popular-movies-stage-1-app)
+### 4. [Popular Movies, Stage 1](https://github.com/thatsabhi22/udacity-popular-movies-stage-1-app)
 
 <image align="right" src="https://github.com/thatsabhi22/udacity-popular-movies-stage-1-app/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="25%"/>
 
@@ -166,7 +166,7 @@ The fragments functionalities are being re-used in both screens.
 </p>
 
 
-### 8. [Popular Movies, Stage 2](https://github.com/thatsabhi22/udacity-popular-movies-stage-2-app)
+### 5. [Popular Movies, Stage 2](https://github.com/thatsabhi22/udacity-popular-movies-stage-2-app)
 
 <image align="right" src="https://github.com/thatsabhi22/udacity-popular-movies-stage-2-app/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="25%"/>
 
@@ -205,7 +205,7 @@ The fragments functionalities are being re-used in both screens.
 <image src="https://github.com/thatsabhi22/udacity-popular-movies-stage-2-app/blob/master/PopularMoviesS2.png" width="35%"/>
 </p>
 
-### 9. [XYZ Reader App](https://github.com/thatsabhi22/udacity-xyz-reader)
+### 6. [XYZ Reader App](https://github.com/thatsabhi22/udacity-xyz-reader)
 
 <image align="right" src="https://github.com/thatsabhi22/udacity-xyz-reader/blob/master/XYZReader/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="25%"/>
 
@@ -229,7 +229,7 @@ The fragments functionalities are being re-used in both screens.
 <image src="https://github.com/thatsabhi22/udacity-xyz-reader/blob/master/XYZReaderReview.png" width="35%"/>
 </p>
 
-### 10. [Sandwich Club App](https://github.com/thatsabhi22/udacity-sandwich-club-app)
+### 7. [Sandwich Club App](https://github.com/thatsabhi22/udacity-sandwich-club-app)
 
 <image align="right" src="https://github.com/thatsabhi22/udacity-sandwich-club-app/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="25%"/>
 
@@ -245,6 +245,10 @@ Building a layout and populating its fields from data received as JSON is a comm
 * Design an activity layout
 * Populate all fields in the layout accordingly
 
+#### Review from the Reviewer (Udacity)
+<p align="left">
+<image src="https://github.com/thatsabhi22/udacity-sandwich-club-app/blob/master/SandwichClubReview.png" width="35%"/>
+</p>
 
 ---
 
