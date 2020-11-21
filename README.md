@@ -1,5 +1,7 @@
 # Udacity Android Developer Nanodegree Projects
 
+Udacity Android Developer Nanodegree is built in collaboration with Google that prepares to be become a professional Android developer. This allows myself to create a diverse portfolio of projects to showcase them to the stakeholders. This program enables me to use Android development platform best-practices, Android Studio, Android Jetpack to build  applications for the world’s most-used mobile platform.
+
 ## Certificate of Completion
 
 ---
@@ -8,9 +10,6 @@
 </a>
 
 ---
-
-Udacity Android Developer Nanodegree is built in collaboration with Google that prepares to be become a professional Android developer. This allows myself to create a diverse portfolio of projects to showcase them to the stakeholders. This program enables me to use Android development platform best-practices, Android Studio, Android Jetpack to build  applications for the world’s most-used mobile platform.
-
 
 ## Project Submissions
 
