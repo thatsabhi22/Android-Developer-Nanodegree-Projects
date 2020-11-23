@@ -55,7 +55,7 @@
 - Offline viewing of the videos, download these space videos effortlessly on your device
 - User Profile gets created for personalisation on favorite space videos
 
-#### Sample Screenshots
+### Screenshots
 <img src="https://github.com/thatsabhi22/udacity-capstone-stage-2/blob/master/Screenshots/s1.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-capstone-stage-2/blob/master/Screenshots/s2.png" width="40%"/> <img src="https://github.com/thatsabhi22/udacity-capstone-stage-2/blob/master/Screenshots/s3.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-capstone-stage-2/blob/master/Screenshots/s4.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-capstone-stage-2/blob/master/Screenshots/s5.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-capstone-stage-2/blob/master/Screenshots/s6.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-capstone-stage-2/blob/master/Screenshots/s7.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-capstone-stage-2/blob/master/Screenshots/s8.png" width="60%"/><img src="https://github.com/thatsabhi22/udacity-capstone-stage-2/blob/master/Screenshots/s9.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-capstone-stage-2/blob/master/Screenshots/s10.png" width="40%"/>
 
 #### Review from the Reviewer (Udacity)
@@ -93,7 +93,7 @@ The fragments functionalities are being re-used in both screens.
 * Use Fragments to create a responsive design that works on phones and tablets.
  
 
-#### Sample Screenshots
+### Screenshots
 <img src="https://github.com/thatsabhi22/udacity-baking-app/blob/master/Screenshots/t1.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-baking-app/blob/master/Screenshots/t2.png" width="40%"/> <img src="https://github.com/thatsabhi22/udacity-baking-app/blob/master/Screenshots/t3.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-baking-app/blob/master/Screenshots/t4.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-baking-app/blob/master/Screenshots/s1.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-baking-app/blob/master/Screenshots/s2.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-baking-app/blob/master/Screenshots/s3.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-baking-app/blob/master/Screenshots/s4.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-baking-app/blob/master/Screenshots/s5.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-baking-app/blob/master/Screenshots/s6.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-baking-app/blob/master/Screenshots/s7.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-baking-app/blob/master/Screenshots/s8.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-baking-app/blob/master/Screenshots/s9.png" width="40%"/>
 
 #### Review from the Reviewer (Udacity)
@@ -124,7 +124,7 @@ The fragments functionalities are being re-used in both screens.
 - Connected tests to verify that the async task is indeed loading jokes.
 - Paid/free flavors. The paid flavor has no ads, and no unnecessary dependencies.
 
-#### Sample Screenshots
+### Screenshots
 <img src="https://github.com/thatsabhi22/udacity-build-it-bigger/blob/master/Screenshots/s1.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-build-it-bigger/blob/master/Screenshots/s2.png" width="40%"/> <img src="https://github.com/thatsabhi22/udacity-build-it-bigger/blob/master/Screenshots/s3.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-build-it-bigger/blob/master/Screenshots/s4.png" width="60%"/>
 
 #### Review from the Reviewer (Udacity)
@@ -157,7 +157,7 @@ The fragments functionalities are being re-used in both screens.
 * Use adapters and custom list layouts to populate list views.
 * Incorporate libraries to simplify the amount of code you need to write 
 
-#### Sample Screenshots
+### Screenshots
 <img src="https://github.com/thatsabhi22/udacity-popular-movies-stage-1-app/blob/master/Screenshots/1.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-popular-movies-stage-1-app/blob/master/Screenshots/2.png" width="40%"/> <img src="https://github.com/thatsabhi22/udacity-popular-movies-stage-1-app/blob/master/Screenshots/3.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-popular-movies-stage-1-app/blob/master/Screenshots/4.png" width="40%"/>
 
 #### Review from the Reviewer (Udacity)
@@ -197,7 +197,7 @@ The fragments functionalities are being re-used in both screens.
  * Create a database using **Room** to store the names and ids of the user's favorite movies (and optionally, the rest of the information needed to display their favorites collection while offline).
  * Modify the existing sorting criteria for the main view to include an additional pivot to show their favorites collection.
 
-#### Sample Screenshots
+### Screenshots
 <img src="https://github.com/thatsabhi22/udacity-popular-movies-stage-2-app/blob/master/Screenshots/1.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-popular-movies-stage-2-app/blob/master/Screenshots/2.png" width="40%"/> <img src="https://github.com/thatsabhi22/udacity-popular-movies-stage-2-app/blob/master/Screenshots/3.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-popular-movies-stage-2-app/blob/master/Screenshots/4.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-popular-movies-stage-2-app/blob/master/Screenshots/5.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-popular-movies-stage-2-app/blob/master/Screenshots/6.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-popular-movies-stage-2-app/blob/master/Screenshots/7.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-popular-movies-stage-2-app/blob/master/Screenshots/8.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-popular-movies-stage-2-app/blob/master/Screenshots/9.png" width="40%"/>
 
 #### Review from the Reviewer (Udacity)
@@ -221,7 +221,8 @@ The fragments functionalities are being re-used in both screens.
 * Using Adaptive design for different screen sizes
 * Picasso Library for Images
 
-#### Sample Screenshots
+### Screenshots
+&nbsp;
 <img src="https://github.com/thatsabhi22/udacity-xyz-reader/blob/master/Screenshots/s1.png" width="40%"/><img src="https://github.com/thatsabhi22/udacity-xyz-reader/blob/master/Screenshots/s2.png" width="40%"/> <img src="https://github.com/thatsabhi22/udacity-xyz-reader/blob/master/Screenshots/s3.png" width="40%"/>
 
 #### Review from the Reviewer (Udacity)
